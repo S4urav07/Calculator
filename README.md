@@ -13,3 +13,6 @@ Result Display: View the result of your calculations.
 # Technology Stack
 HTML/CSS: For the structure and styling.
 JavaScript: To handle the logic and functionality of the calculator.
+
+# live demo
+(https://s4urav07.github.io/Calculator/)
